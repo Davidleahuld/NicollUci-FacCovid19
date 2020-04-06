@@ -1,0 +1,6 @@
+When sliced the support overhang angle should be set to 72.98, this is to create the minimum of support for most 3D printers, though it can be changed if needed.
+
+HM Respirator.stl - one copy
+Filter Cap.stl - two copies
+
+When assembled, the HEPA filters go into the filter cylinders on the respirator, then are capped with the filter cap, which is introduced in alignment with the teeth on the respirator and the twisted to lock in place.

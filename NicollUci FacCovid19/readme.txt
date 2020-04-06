@@ -1,0 +1,2 @@
+3D printable face mask with  replacable filters, and low post-processing requirements. Envisioned and designed by nicolluci.
+(C) 2020 Leahu David, leahudavidld@gmail.com, released under CC-A license, attached.
